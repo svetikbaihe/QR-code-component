@@ -21,7 +21,7 @@ To build a QR Code UI Component.
 
 ### Screenshot
 
-![QR code-desktop](/public/QR_desktop.png)
+![QR code-desktop](src/public/QR_desktop.png)
 
 ### Links
 
